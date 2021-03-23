@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "API RESTful del Master de Frameworks para JS de Victor Robles",
+  "description": "API RESTful del Master de Frameworks",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
