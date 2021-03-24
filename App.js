@@ -25,7 +25,7 @@ app.use((req, res, next) => {
     next();
 });
 
-// Añadir prefijos a rutas / cargar rutas
+// Añadir prefijos a rutas / cargar rutass
 app.use('/api', articles_routes);
 
 //Exportar modulo (fichero actual)
