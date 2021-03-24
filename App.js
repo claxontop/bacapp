@@ -5,7 +5,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 
 
-//ejecutar express (http)
+//ejecutar express (http).
 var app = express();
 
 // cargar ficheros rutas
